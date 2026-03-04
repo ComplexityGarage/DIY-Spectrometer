@@ -2,7 +2,7 @@
 # Authors 
 - Bartosz Wojcik i Mikolaj Smoczynski
 # Description of the project 
-This project presents a low-cost spectrometer builit using an Arduino microcontroller and a compact optical setup. The objective was to measure the visible light spectrum (380-780nm) using accesible components  and demonstrate that a functional spectrometer can be constructed with minimal resources
+This project presents a low-cost spectrometer builit using an Arduino microcontroller and a compact optical setup. The objective was to measure the visible light spectrum (380-780nm) using accesible components  and demonstrate that a functional spectrometer can be constructed with minimal resources.
 
 The system uses a fragment of a CD as a reflective diffraction granting and a light sensor mounted on a servo motor. The servo rotates the sensor across the first diffraction order, allowing intensity measurements at diffrent angles. The angular position is then converted into wavelength using a calibration model.
 
@@ -27,11 +27,11 @@ Since the zero-order reflection angle was not directly measured, a linear calibr
 
 58° ≈ 380 nm (violet)
 
-114° ≈ 750 nm (red)
+114° ≈ 780 nm (red)
 
 This produced a linear wavelength–angle relationship:
 
-λ(θ) = 380 + (θ − 58) · 6.607
+λ(θ) = 380 + (θ − 58) · 7.143
 
 Hardware
 
@@ -78,4 +78,12 @@ Applications: Refining the device into a low-cost, open-source spectrometer for 
 
 
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
+Fundamentals of diffraction grating theory (standard optics textbooks)
+
+Hecht, E. Optics
+
+Arduino official documentation
+
+Grove Light Sensor (LM358) documentation
+
+General specifications of CD groove spacing (~1.6 μm)
