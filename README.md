@@ -62,10 +62,30 @@ In contrast, this project represents a low‑cost educational implementation. A 
 
 Despite these limitations, the device successfully reproduces the structure of the visible spectrum and demonstrates clear intensity variation across wavelengths, with a maximum observed in the green–yellow region (~550–600 nm).
 
-![Widok spektrometru](IMG_0508.jpeg)
-![Kolejne ujęcie](IMG_0510.jpeg)
-![Detale konstrukcji](IMG_0511.jpeg)
-![Wynik pomiaru](IMG_0512.jpeg)
+<h3 align="center">Galeria projektu DIY-Spectrometer</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="45%">
+      <img src="IMG_0508.jpeg" alt="Widok 1" width="100%" style="border-radius: 8px;"/><br>
+      <sub><i>Opis zdjęcia 0508</i></sub>
+    </td>
+    <td align="center" valign="top" width="45%">
+      <img src="IMG_0510.jpeg" alt="Widok 2" width="100%" style="border-radius: 8px;"/><br>
+      <sub><i>Opis zdjęcia 0510</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="45%">
+      <img src="IMG_0511.jpeg" alt="Widok 3" width="100%" style="border-radius: 8px;"/><br>
+      <sub><i>Opis zdjęcia 0511</i></sub>
+    </td>
+    <td align="center" valign="top" width="45%">
+      <img src="IMG_0512.jpeg" alt="Widok 4" width="100%" style="border-radius: 8px;"/><br>
+      <sub><i>Opis zdjęcia 0512</i></sub>
+    </td>
+  </tr>
+</table>
 
 This makes the project suitable for educational demonstrations, introductory optics experiments, and proof‑of‑concept prototyping.
 
