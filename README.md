@@ -68,13 +68,13 @@ This makes the project suitable for educational demonstrations, introductory opt
 # What next?
 Future development will focus on four key areas:
 
-    Optics: Replacing the CD with a DVD or laboratory diffraction grating, while adding a collimator and a precision slit to increase resolution and eliminate linear approximation errors.
+Optics: Replacing the CD with a DVD or laboratory diffraction grating, while adding a collimator and a precision slit to increase resolution and eliminate linear approximation errors.
 
-    Electronics: Transitioning from an analog sensor to a high-sensitivity photodiode or CCD/CMOS array for simultaneous spectrum acquisition.
+Electronics: Transitioning from an analog sensor to a high-sensitivity photodiode or CCD/CMOS array for simultaneous spectrum acquisition.
 
-    Software: Implementing automated data logging (CSV), real-time plotting, and advanced analysis tools like peak detection and noise filtering.
+Software: Implementing automated data logging (CSV), real-time plotting, and advanced analysis tools like peak detection and noise filtering.
 
-    Applications: Refining the device into a low-cost, open-source spectrometer for physics labs and educational outreach.
+Applications: Refining the device into a low-cost, open-source spectrometer for physics labs and educational outreach.
 
 
 # Sources 
