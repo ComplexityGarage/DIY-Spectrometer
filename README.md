@@ -62,27 +62,33 @@ In contrast, this project represents a low‑cost educational implementation. A 
 
 Despite these limitations, the device successfully reproduces the structure of the visible spectrum and demonstrates clear intensity variation across wavelengths, with a maximum observed in the green–yellow region (~550–600 nm).
 
-<h3 align="center">Images of spectrometer:</h3>
+<h3 align="center">Galeria projektu DIY-Spectrometer</h3>
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="45%">
       <img src="IMG_0508.jpeg" alt="Widok 1" width="100%" style="border-radius: 8px;"/><br>
-      <sub><i> </i></sub>
+      <sub><i>Opis zdjęcia 0508</i></sub>
     </td>
     <td align="center" valign="top" width="45%">
       <img src="IMG_0510.jpeg" alt="Widok 2" width="100%" style="border-radius: 8px;"/><br>
-      <sub><i> </i></sub>
+      <sub><i>Opis zdjęcia 0510</i></sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="45%">
       <img src="IMG_0511.jpeg" alt="Widok 3" width="100%" style="border-radius: 8px;"/><br>
-      <sub><i> </i></sub>
+      <sub><i>Opis zdjęcia 0511</i></sub>
     </td>
     <td align="center" valign="top" width="45%">
       <img src="IMG_0512.jpeg" alt="Widok 4" width="100%" style="border-radius: 8px;"/><br>
-      <sub><i> </i></sub>
+      <sub><i>Opis zdjęcia 0512</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="IMG_0514.jpeg" alt="Widok 5" width="45%" style="border-radius: 8px;"/><br>
+      <sub><i>Opis zdjęcia 0514 - Główne ujęcie</i></sub>
     </td>
   </tr>
 </table>
