@@ -62,6 +62,11 @@ In contrast, this project represents a low‑cost educational implementation. A 
 
 Despite these limitations, the device successfully reproduces the structure of the visible spectrum and demonstrates clear intensity variation across wavelengths, with a maximum observed in the green–yellow region (~550–600 nm).
 
+![](/workspaces/DIY-Spectrometer/IMG_0508.jpeg)
+![](/workspaces/DIY-Spectrometer/IMG_0510.jpeg)
+![](/workspaces/DIY-Spectrometer/IMG_0511.jpeg)
+![](/workspaces/DIY-Spectrometer/IMG_0512.jpeg)
+
 This makes the project suitable for educational demonstrations, introductory optics experiments, and proof‑of‑concept prototyping.
 
 
