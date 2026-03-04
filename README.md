@@ -2,7 +2,7 @@
 # Authors 
 - Bartosz Wojcik i Mikolaj Smoczynski
 # Description of the project 
-This project presents a low-cost spectrometer builit using an Arduino microcontroller and a compact optical setup. The objective was to measure the visible light spectrum (380-780nm) using accesible components  and demonstrate that a functional spectrometer can be constructed with minimal resources/
+This project presents a low-cost spectrometer builit using an Arduino microcontroller and a compact optical setup. The objective was to measure the visible light spectrum (380-780nm) using accesible components  and demonstrate that a functional spectrometer can be constructed with minimal resources
 
 The system uses a fragment of a CD as a reflective diffraction granting and a light sensor mounted on a servo motor. The servo rotates the sensor across the first diffraction order, allowing intensity measurements at diffrent angles. The angular position is then converted into wavelength using a calibration model.
 
