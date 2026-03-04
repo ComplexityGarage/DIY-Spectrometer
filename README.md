@@ -33,7 +33,7 @@ This produced a linear wavelength–angle relationship:
 
 λ(θ) = 380 + (θ − 58) · 7.143
 
-Hardware
+Hardware:
 
 Arduino microcontroller
 
@@ -45,7 +45,7 @@ CD fragment as diffraction grating
 
 Narrow slit (~0.3 mm width)
 
-Software
+Software:
 
 Arduino IDE
 
@@ -62,7 +62,7 @@ In contrast, this project represents a low‑cost educational implementation. A 
 
 Despite these limitations, the device successfully reproduces the structure of the visible spectrum and demonstrates clear intensity variation across wavelengths, with a maximum observed in the green–yellow region (~550–600 nm).
 
-<h3 align="center">Images of spectrometer</h3>
+<h3 align="center">Images of spectrometer:</h3>
 
 <table align="center">
   <tr>
