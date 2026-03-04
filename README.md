@@ -1,6 +1,6 @@
 # DIY-Spectrometer
 # Authors 
-- Bartosz Wojcik i Mikolaj Smoczynski
+- Bartosz Wojcik & Mikolaj Smoczynski
 # Description of the project 
 This project presents a low-cost spectrometer builit using an Arduino microcontroller and a compact optical setup. The objective was to measure the visible light spectrum (380-780nm) using accesible components  and demonstrate that a functional spectrometer can be constructed with minimal resources.
 
